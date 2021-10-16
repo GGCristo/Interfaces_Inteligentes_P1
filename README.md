@@ -19,3 +19,4 @@ Realizar una escena 3D básica utilizando exclusivamente el editor de escenas. L
 - **Agregar un script que escriba en la consola los objetos que se han utilizado, un identificador numérico que les asignes a cada uno de los objetos y el valor de un contador que se actualiza en cada iteración para cada objeto:**
 ![Image](https://github.com/GGCristo/Interfaces_Inteligentes_P1/blob/main/img/script.png)
 ![Gif](https://github.com/GGCristo/Interfaces_Inteligentes_P1/blob/main/Animation.gif)
+He creado un mapa algo más grande del generado por defecto para poder probar la rotación de la cámara en tercera persona junto al zoom que se activa con la rueda del ratón. También he simulado el modo noche reduciendo la intensidad de la luz principal, lo que me permitió jugar con distintos efectos y tipos de luces.
