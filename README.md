@@ -35,3 +35,4 @@ Todos los alumnos deben subir su entrega.
 - **Utilizar prefabs de standard assets para un FPS o Third Person:** Se han usado los prefabs third persons para el objeto Player
 - **Agregar un script que escriba en la consola los objetos que se han utilizado, un identificador numérico que les asignes a cada uno de los objetos y el valor de un contador que se actualiza en cada iteración para cada objeto:**
 ![Image](https://github.com/GGCristo/Interfaces_Inteligentes_P1/blob/main/img/script.png)
+![Gif](https://github.com/GGCristo/Interfaces_Inteligentes_P1/blob/main/Animation.gif)
